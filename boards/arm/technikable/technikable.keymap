@@ -74,7 +74,7 @@
             label = "Nav";
             bindings = <
 &kp LWIN   &trans     &trans     &trans      &trans          &kp K_SCROLL_UP   &trans     &trans         &kp UP      &trans     &kp F12     &kp K_VOL_UP
-&trans     &trans     &trans     &trans      &trans          &kp K_SCROLL_DOWN &kp K_CALC &kp LEFT       &kp DOWN    &kp RIGHT  &kp F11     &kp K_VOL_DOWN
+&trans     &trans     &trans     &trans      &trans          &kp K_SCROLL_DOWN &kp K_CALC &kp LEFT       &kp DOWN    &kp RIGHT  &kp F11     &kp K_VOL_DN
 &trans     &kp F1     &kp F2     &kp F3      &kp F4          &kp F5            &kp F6     &kp F7         &kp F8      &kp F9     &kp F10     &kp DEL
 #ifdef TBLE_DUAL_2U
                       &trans     &trans              &trans                    &trans       &trans         &trans
